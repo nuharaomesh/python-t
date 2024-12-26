@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Omesh",
+    "age": 22,
+    "address": "Colombo",
+    "student_grades": {
+      "maths": 21,
+      "science": 32,
+      "english": 12
+    }
+  },
+  {
+    "name": "Nuhara",
+    "age": 17,
+    "address": "Galle",
+    "student_grades": {
+      "maths": 51,
+      "science": 92,
+      "english": 72
+    }
+  },
+  {
+    "name": "Liyanage",
+    "age": 22,
+    "address": "Kandy",
+    "student_grades": {
+      "maths": 51,
+      "science": 68,
+      "english": 33
+    }
+  }
+]
